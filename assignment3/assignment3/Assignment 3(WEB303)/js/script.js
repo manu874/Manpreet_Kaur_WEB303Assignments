@@ -1,7 +1,3 @@
-//WEB 303 Assignment 3
-// Student Name: Varinder Kaur
-//Student ID: 0783469
-
 let getJsonData = function() {
     $.getJSON("team.json", function (data) {
         let html = '',
