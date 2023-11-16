@@ -1,0 +1,51 @@
+  [{
+      "Movie_id":"1",
+      "MovieName":"Taare Jameen Par",
+      "Director":"Gurbinderjeet",
+      "firstname":"Kaur",
+      "lastname":"Deol"
+     },
+     {
+     "Movie_id":"2",
+     "MovieName":"Carry On Jatta",
+     "Director":"Manjinder",
+     "firstname":"singh",
+     "lastname":"Dhillon"
+    },
+    {
+     "Movie_id":"3",
+     "MovieName":"Tiger",
+     "Director":"Manpreet Kaur",
+     "firstname":"Kaur",
+     "lastname":"Dhillon"
+     },
+{
+     "Movie_id":"4",
+     "MovieName":"Black Panther",
+     "Director":"Hanadi",
+     "firstname":"Farhat",
+     "lastname":"hasan"
+     },
+{
+     "Movie_id":"5",
+     "MovieName":"phobia",
+     "Director":"Anjali",
+     "firstname":"Sandhu",
+     "lastname":"sandhu"
+     },
+{
+     "Movie_id":"6",
+     "MovieName":"Guilty",
+     "Director":"Kareena",
+     "firstname":"kapoor",
+     "lastname":"khan"
+     },
+{
+     "Movie_id":"7",
+     "MovieName":"Hating Game",
+     "Director":"Navroos",
+     "firstname":"singh",
+     "lastname":"bhullar"
+     }
+
+]
